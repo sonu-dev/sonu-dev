@@ -10,7 +10,7 @@
 I'm a Full Stack Software Engineer, I love coding, reading and travelling.
 
 - 🔭 I’m currently working on cool things.
-- 🌱 I’m currently learning Algorithms, Data Structures and Architectural designs.
+- 🌱 I’m currently learning Cloud technologies and Microservice Architectural designs.
 - 👯 I’m looking to collaborate on some good open projects.
 - 💬 How to reach me: sonu.econnect@gmail.com
   
